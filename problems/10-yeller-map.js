@@ -12,7 +12,7 @@ console.log(yeller(['kiwi', 'orange', 'mango'])); // [ 'KIWI!', 'ORANGE!', 'MANG
 
 */
 
-let yeller = function(words) {
+let yeller = function (words) {
   // Your code here
 };
 
@@ -22,4 +22,4 @@ try {
   module.exports = yeller;
 } catch (e) {
   module.exports = null;
-}
+}
